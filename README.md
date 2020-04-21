@@ -1,5 +1,8 @@
 # muscleModelingToolKit
-A collection of scripts and programs used to run muscle modeling simulation experiments. Models included within the toolkit are the open sim Hill type model and the novel winding filament muscle model. Repository also includes visualization functions, random sampling scripts, statistical evaluation functions and scripts for running simulations on high-performance computers using the slurm scheduler. Example of run scripts can be found on at the root directory. 
+A collection of scripts and programs used to run muscle modeling simulation experiments. Models included within the toolkit are the open sim Hill type model and the novel winding filament muscle model. Repository also includes visualization functions, random sampling scripts, statistical evaluation functions and scripts for running simulations on high-performance computers using the slurm scheduler. Example  run scripts can be found at the root directory. 
+
+Work developed by the researchers at the Nishikawa Lab at Northern Arizona University
+https://in.nau.edu/nishikawa-lab/
 
 ## Dependencies 
 ### Sensitivity Anaylsis for Everyone (SAFE) Toolbox 
