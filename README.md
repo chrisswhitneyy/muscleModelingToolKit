@@ -1,0 +1,2 @@
+# muscleModelingToolKit
+A collection of scripts and programs used to run muscle modeling simulation experiments. Models included within the toolkit are the open sim Hill type model and the novel winding filament muscle model. Repository also includes visualization functions, random sampling scripts, statistical evaluation functions and scripts for running simulations on high-performance computers using the slurm scheduler. Example of run scripts can be found on at the root directory. 
